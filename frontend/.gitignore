@@ -49,6 +49,7 @@ uploads/
 
 # Optional: React build artifacts (if split)
 /frontend/build
+/backend/venv/
 
 # GitHub-specific
 # Ignore GitHub workflow logs or artifacts if used locally
