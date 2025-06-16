@@ -34,6 +34,15 @@ label {
   font-size: 1rem;
 
 }
+button{
+  background-color: #2d89ef;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
 
 h1 {
   font-size: 3rem;
