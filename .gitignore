@@ -34,7 +34,9 @@ Thumbs.db
 Desktop.ini
 
 # Python virtual environments
+# Virtuelle Umgebungen (Python)
 venv/
+*/venv/
 backend/venv/
 .env/
 __pycache__/
@@ -59,3 +61,6 @@ uploads/
 *.tgz
 *.zip
 *.bak
+
+
+
