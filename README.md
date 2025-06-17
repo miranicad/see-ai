@@ -1,3 +1,5 @@
+> ⚠️ Note: This application is currently under active development. Some features may be incomplete or subject to change.
+
 # 👁️ SeeAI – Image Recognition Application
 
 **SeeAI** is a simple web-based image recognition application. Users can upload an image via the React frontend, which is then processed by a Python FastAPI backend. The backend analyzes properties such as image dimensions and average RGB color values.
